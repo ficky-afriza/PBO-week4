@@ -21,7 +21,7 @@ public class Quiz {
         {"1.Kasus","2.Jemuran","3.berita","4.Megawati"}
     };
     
-    private int[] correctAnswers = {1, 2, 3}; 
+    private int[] correctAnswers = {1, 2, 3, 1, 1, 1, 1}; 
     private int score = 0;
     
    
